@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TTT</string>
+    <string name="welcome_to_tictactoe">Welcome To TicTacToe</string>
+    <string name="grid">grid</string>
+    <string name="xturn">X\'s Turn Now</string>
+    <string name="xturn2">X\'s Turn to play</string>
+    <string name="osturn">O\'s Turn Now</string>
+    <string name="xsturn">X\'s turn - Tap to play</string>
+    <string name="draw_case">Tap Again to Play</string>
+</resources>
